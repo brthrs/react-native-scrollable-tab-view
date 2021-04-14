@@ -1,5 +1,8 @@
 
 ## react-native-scrollable-tab-view
+
+This fork adds fixes implemented in https://github.com/ptomasroos/react-native-scrollable-tab-view/pull/797
+
 [![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)
 
 This is probably my favorite navigation pattern on Android, I wish it
